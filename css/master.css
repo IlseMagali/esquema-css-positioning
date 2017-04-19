@@ -1,0 +1,44 @@
+.divabuelo{
+  width: 200px;
+  height: 200px;
+}
+.abuelo {
+  background-color: red;
+}
+.divhijo{
+  width: 110px;
+  height: 110px;
+}
+.hijo {
+  background-color: purple;
+  position:absolute;
+  top:50px;
+  left:50px;
+}
+.divnieto{
+  width: 45px;
+  height: 47px;
+}
+.nieto {
+  background-color: yellow;
+  position:absolute;
+  top:0;
+  left:0;
+}
+.abuelodos {
+  background-color: blue;
+  position:absolute;
+  top:220px;
+}
+.hijodos {
+  background-color: green;
+  position:absolute;
+  top:47px;
+  left:43px;
+}
+.nietodos {
+  background-color: black;
+  position:absolute;
+  top:-48px;
+  left:-43px;
+}
